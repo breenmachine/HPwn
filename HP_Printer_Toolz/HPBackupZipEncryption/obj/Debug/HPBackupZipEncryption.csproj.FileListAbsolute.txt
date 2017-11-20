@@ -1,0 +1,11 @@
+C:\Users\b\Documents\Visual Studio 2017\Projects\HPValidateSignature\HPBackupZipEncryption\bin\Debug\HPBackupZipEncryption.exe.config
+C:\Users\b\Documents\Visual Studio 2017\Projects\HPValidateSignature\HPBackupZipEncryption\bin\Debug\HPBackupZipEncryption.exe
+C:\Users\b\Documents\Visual Studio 2017\Projects\HPValidateSignature\HPBackupZipEncryption\bin\Debug\HPBackupZipEncryption.pdb
+C:\Users\b\Documents\Visual Studio 2017\Projects\HPValidateSignature\HPBackupZipEncryption\bin\Debug\HP.Common.System.DLL
+C:\Users\b\Documents\Visual Studio 2017\Projects\HPValidateSignature\HPBackupZipEncryption\bin\Debug\HP.Common.Types.DLL
+C:\Users\b\Documents\Visual Studio 2017\Projects\HPValidateSignature\HPBackupZipEncryption\bin\Debug\HP.Mfp.Services.dll
+C:\Users\b\Documents\Visual Studio 2017\Projects\HPValidateSignature\HPBackupZipEncryption\bin\Debug\Ionic.Zip.dll
+C:\Users\b\Documents\Visual Studio 2017\Projects\HPValidateSignature\HPBackupZipEncryption\obj\Debug\HPBackupZipEncryption.csprojResolveAssemblyReference.cache
+C:\Users\b\Documents\Visual Studio 2017\Projects\HPValidateSignature\HPBackupZipEncryption\obj\Debug\HPBackupZipEncryption.exe
+C:\Users\b\Documents\Visual Studio 2017\Projects\HPValidateSignature\HPBackupZipEncryption\obj\Debug\HPBackupZipEncryption.pdb
+C:\Users\b\Documents\Visual Studio 2017\Projects\HPValidateSignature\HPBackupZipEncryption\bin\Debug\HP.Platform.Framework.dll

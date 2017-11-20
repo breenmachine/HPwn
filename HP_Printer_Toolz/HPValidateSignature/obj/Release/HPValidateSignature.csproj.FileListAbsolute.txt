@@ -1,0 +1,10 @@
+C:\Users\b\Documents\Visual Studio 2017\Projects\HPValidateSignature\HPValidateSignature\bin\Release\HP.Common.System.OS.DLL
+C:\Users\b\Documents\Visual Studio 2017\Projects\HPValidateSignature\HPValidateSignature\bin\Release\HP.Platform.OS.dll
+C:\Users\b\Documents\Visual Studio 2017\Projects\HPValidateSignature\HPValidateSignature\bin\Release\HPValidateSignature.exe.config
+C:\Users\b\Documents\Visual Studio 2017\Projects\HPValidateSignature\HPValidateSignature\bin\Release\HPValidateSignature.exe
+C:\Users\b\Documents\Visual Studio 2017\Projects\HPValidateSignature\HPValidateSignature\bin\Release\HPValidateSignature.pdb
+C:\Users\b\Documents\Visual Studio 2017\Projects\HPValidateSignature\HPValidateSignature\bin\Release\HP.Common.System.DLL
+C:\Users\b\Documents\Visual Studio 2017\Projects\HPValidateSignature\HPValidateSignature\bin\Release\HP.Platform.Framework.dll
+C:\Users\b\Documents\Visual Studio 2017\Projects\HPValidateSignature\HPValidateSignature\obj\Release\HPValidateSignature.csprojResolveAssemblyReference.cache
+C:\Users\b\Documents\Visual Studio 2017\Projects\HPValidateSignature\HPValidateSignature\obj\Release\HPValidateSignature.exe
+C:\Users\b\Documents\Visual Studio 2017\Projects\HPValidateSignature\HPValidateSignature\obj\Release\HPValidateSignature.pdb

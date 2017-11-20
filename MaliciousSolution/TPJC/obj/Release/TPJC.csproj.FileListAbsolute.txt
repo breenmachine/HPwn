@@ -1,0 +1,6 @@
+C:\Users\b\Documents\Visual Studio 2008\Projects\TPJC\TPJC\bin\Release\TPJC.dll
+C:\Users\b\Documents\Visual Studio 2008\Projects\TPJC\TPJC\bin\Release\TPJC.pdb
+C:\Users\b\Documents\Visual Studio 2008\Projects\TPJC\TPJC\bin\Release\HP.ExtLib.DLL
+C:\Users\b\Documents\Visual Studio 2008\Projects\TPJC\TPJC\obj\Release\ResolveAssemblyReference.cache
+C:\Users\b\Documents\Visual Studio 2008\Projects\TPJC\TPJC\obj\Release\TPJC.dll
+C:\Users\b\Documents\Visual Studio 2008\Projects\TPJC\TPJC\obj\Release\TPJC.pdb

@@ -1,0 +1,13 @@
+c:\users\b\documents\visual studio 2017\Projects\HPValidateSignature\HPValidateSignature\bin\Debug\HPValidateSignature.exe.config
+c:\users\b\documents\visual studio 2017\Projects\HPValidateSignature\HPValidateSignature\bin\Debug\HPValidateSignature.exe
+c:\users\b\documents\visual studio 2017\Projects\HPValidateSignature\HPValidateSignature\bin\Debug\HPValidateSignature.pdb
+c:\users\b\documents\visual studio 2017\Projects\HPValidateSignature\HPValidateSignature\obj\Debug\HPValidateSignature.csprojResolveAssemblyReference.cache
+c:\users\b\documents\visual studio 2017\Projects\HPValidateSignature\HPValidateSignature\obj\Debug\HPValidateSignature.exe
+c:\users\b\documents\visual studio 2017\Projects\HPValidateSignature\HPValidateSignature\obj\Debug\HPValidateSignature.pdb
+C:\Users\b\documents\visual studio 2017\Projects\HPValidateSignature\HPValidateSignature\bin\Debug\CompactFormatter.dll
+C:\Users\b\documents\visual studio 2017\Projects\HPValidateSignature\HPValidateSignature\bin\Debug\log4net.dll
+C:\Users\b\documents\visual studio 2017\Projects\HPValidateSignature\HPValidateSignature\bin\Debug\Ionic.Zip.dll
+C:\Users\b\Documents\Visual Studio 2017\Projects\HPValidateSignature\HPValidateSignature\bin\Debug\HP.Platform.OS.dll
+C:\Users\b\Documents\Visual Studio 2017\Projects\HPValidateSignature\HPValidateSignature\bin\Debug\HP.Common.System.OS.DLL
+C:\Users\b\Documents\Visual Studio 2017\Projects\HPValidateSignature\HPValidateSignature\bin\Debug\HP.Common.System.DLL
+C:\Users\b\Documents\Visual Studio 2017\Projects\HPValidateSignature\HPValidateSignature\bin\Debug\HP.Platform.Framework.dll
